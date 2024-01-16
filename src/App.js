@@ -26,7 +26,7 @@ function App() {
         <div className='font-bold gap-12 text-5xl'>
         {Count}
         </div>
-
+          
         <button onClick={incHandler} className='border-l-2 text-center w-20 border-[#bfbfbf] text-5xl' >
           +
         </button>
